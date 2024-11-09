@@ -9,7 +9,8 @@ Bem-vindo ao Pokémon Card Generator! Este é um projeto desenvolvido como parte
 ## 📋 Sobre o Projeto
 
 Este projeto foi desenvolvido para mostrar como será a interface de criação das cartas de Pokémon no nosso jogo de trunfo. As cartas são geradas dinamicamente com informações extraídas da API do Pokémon, incluindo atributos como nome, imagem e tipo.
-Importante: O código deste projeto está sendo desenvolvido com fins de estudo e como parte do nosso portfólio. 
+
+- Importante: O código deste projeto está sendo desenvolvido com fins de estudo e como parte do nosso portfólio. 
 
 ## 🛠️ Tecnologias Utilizadas
 
